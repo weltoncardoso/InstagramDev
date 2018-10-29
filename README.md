@@ -1,1 +1,3 @@
 "# InstagramDev" 
+Em construcao.....
+Projeto em React Native no formato do Instagram para fins educacionais.
